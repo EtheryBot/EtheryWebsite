@@ -1,2 +1,4 @@
-# websiteEthery
-website for discord bot
+# Ethery Website
+----------------
+
+Made by DevelopSuccess#0001 on discord.
